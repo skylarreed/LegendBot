@@ -1,0 +1,17 @@
+{
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "contributors": [
+    "Balin Grant"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "enmap": "^5.8.4",
+    "nanoid": "^3.1.30"
+  }
+}
